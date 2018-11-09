@@ -1,5 +1,5 @@
 # iCart
-E commerce android online shopping application pattern
+E commerce android online shoppings application pattern
 ## Feature
 It's the cheaper way to shop - Gain access to exclusive deals on the products you love.  
 * Easy way to create account or login with Facebook.  
